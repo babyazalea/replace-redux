@@ -14,7 +14,7 @@ const configureStore = () => {
     },
   };
   initStore(actions, {
-    product: [
+    products: [
       {
         id: "p1",
         title: "Red Scarf",
